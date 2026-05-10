@@ -1,0 +1,639 @@
+# LINIE TRAMWAJOWE KRAKÓW
+# STAN NA 09.05.2026
+# FORMAT: PRZYSTANEK;CZAS_PRZEJAZDU_Z_POPRZEDNIEGO
+# LINIE: 1, 3, 4, 5, 8, 9, 10, 11, 13, 14, 16, 17, 18, 20, 21, 22
+# 24, 49, 50, 52, 75 (zastępcza), 76 (zastępcza)
+
+# LINIA 1
+Wzgórza Krzesławickie;0
+Jarzębiny;1
+Darwina;1
+Wańkowicza;2
+Cienista;1
+Teatr Ludowy;1
+Rondo Kocmyrzowskie im. Ks. Gorzelanego;3
+Bieńczycka;1
+Rondo Czyżyńskie;3
+Gałczyńskiego;1
+Rondo 308. Dywizjonu;1
+Ogród Doświadczeń;2
+Tauron Arena Kraków al. Pokoju;1
+Dąbie;2
+Ofiar Dąbia;1
+Fabryczna;1
+Nullo;1
+Teatr Variete;1
+Rondo Grzegórzeckie;3
+Hala Targowa;2
+Starowiślna;1
+Poczta Główna;2
+Plac Wszystkich Świętych;2
+Filharmonia;2
+Jubilat;2
+Komorowskiego;2
+Salwator;1
+
+# LINIA 3
+Krowodrza Górka P+R;0
+Bratysławska;2
+Szpital Narutowicza;1
+Dworzec Towarowy;3
+Politechnika;2
+Dworzec Główny Zachód;1
+Teatr Słowackiego;2
+Poczta Główna;2
+Starowiślna;2
+Miodowa;2
+Św. Wawrzyńca;1
+Plac Bohaterów Getta;3
+Podgórze Ska;2
+Cmentarz Podgórski;1
+Dworcowa;2
+Kabel;2
+Bieżanowska;3
+Wlotowa;1
+Prokocim;1
+Prokocim Szpital;2
+Teligi;2
+Nowy Prokocim;1
+Ćwiklińskiej;1
+Nowy Bieżanów P+R;1
+
+# LINIA 4
+Wzgórza Krzesławickie;0
+Jarzębiny;1
+Darwina;1
+Grodzki Urząd Pracy;1
+Elektromontaż;1
+Zajezdnia Nowa Huta;2
+Kombinat;1
+Zalew Nowohucki;2
+Struga;1
+Plac Centralny im. R.Reagana;3
+Os.Kolorowe;1
+Rondo Czyżyńskie;3
+Czyżyny;1
+Stella-Sawickiego;1
+Akf / Pk;1
+Muzeum Lotnictwa Polskiego;1
+Tauron Arena Kraków Wieczysta;2
+Białucha;1
+Cystersów;2
+Rondo Mogilskie;2
+Lubicz;2
+Teatr Słowackiego;2
+Stary Kleparz;2
+Teatr Bagatela;2
+Stefana Batorego;1
+Plac Inwalidów;2
+Urzędnicza;1
+Biprostal;1
+Uken;1
+Głowackiego;1
+Bronowice;2
+Wesele;1
+Bronowice Ska;2
+Bronowice Małe;2
+
+# LINIA 5
+Krowodrza Górka P+R;0
+Bratysławska;1
+Szpital Narutowicza;1
+Dworzec Towarowy;3
+Politechnika;2
+Dworzec Główny Tunel;1
+Rondo Mogilskie;2
+Cystersów;1
+Białucha;2
+Tauron Arena Kraków Wieczysta;2
+Muzeum Lotnictwa Polskiego;1
+Akf / Pk;1
+Stella-Sawickiego;2
+Czyżyny;1
+Rondo Czyżyńskie;3
+Bieńczycka;1
+Rondo Kocmyrzowskie im. Ks. Gorzelanego;3
+Teatr Ludowy;1
+Cienista;1
+Wańkowicza;2
+Darwina;2
+Jarzębiny;1
+Wzgórza Krzesławickie;2
+
+# LINIA 8
+Borek Fałęcki;0
+Solvay;1
+Kościuszkowców;1
+Łagiewniki Ska;2
+Łagiewniki;3
+Rzemieślnicza;1
+Rondo Matecznego;1
+Smolki;1
+Korona;2
+Plac Wolnica;2
+Stradom;3
+Wawel;2
+Św. Gertrudy;1
+Plac Wszystkich Świętych;1
+Filharmonia;2
+Teatr Bagatela;2
+Stefana Batorego;1
+Plac Inwalidów;2
+Urzędnicza;1
+Biprostal;1
+Uken;1
+Głowackiego;1
+Bronowice;2
+Wesele;1
+Bronowice Ska;2
+Bronowice Małe;2
+
+# LINIA 9
+Rondo Hipokratesa;0
+Dh Wanda;1
+Rondo Kocmyrzowskie im. Ks. Gorzelanego;3
+Bieńczycka;1
+Rondo Czyżyńskie;3
+Czyżyny;1
+Stella-Sawickiego;1
+Akf / Pk;1
+Muzeum Lotnictwa Polskiego;1
+Tauron Arena Kraków Wieczysta;2
+Białucha;1
+Cystersów;2
+Rondo Mogilskie;2
+Rondo Grzegórzeckie;3
+Zabłocie;1
+Klimeckiego;1
+Kuklińskiego;2
+Gromadzka;1
+Lipska;2
+Dworzec Płaszów Estakada;2
+Kabel;2
+Bieżanowska;3
+Wlotowa;1
+Prokocim;1
+Prokocim Szpital;2
+Teligi;2
+Nowy Prokocim;1
+Ćwiklińskiej;1
+Nowy Bieżanów P+R;1
+
+# LINIA 10
+Pleszów;0
+Koksochemia;1
+Meksyk;1
+Brama Nr 5;1
+Giedroycia;1
+Brama Nr 4;1
+Fort Mogiła;1
+Bardosa;2
+Suche Stawy;1
+Klasztorna;1
+Os.Na Skarpie;1
+Plac Centralny im. R.Reagana;3
+Os.Kolorowe;1
+Rondo Czyżyńskie;3
+Czyżyny;1
+Stella-Sawickiego;1
+Akf / Pk;1
+Muzeum Lotnictwa Polskiego;1
+Tauron Arena Kraków Wieczysta;2
+Białucha;1
+Cystersów;2
+Rondo Mogilskie;2
+Rondo Grzegórzeckie;3
+Hala Targowa;2
+Starowiślna;1
+Stradom;2
+Plac Wolnica;2
+Korona;2
+Smolki;1
+Rondo Matecznego;2
+Rezmieślnicza;2
+Łagiewniki;2
+Łagiewniki Zus;2
+Łagiewniki Ska;2
+Sanktuarium Bożego Miłosierdzia;1
+Turowicza;2
+Kurdwanów P+R;1
+
+# LINIA 11
+Czerwone Maki P+R;0
+Kampus Up Jp II;1
+Kampus UJ;1
+Ruczaj;1
+Norymberska;1
+Grota-Roweckiego;2
+Lipińskiego;2
+Borsucza;1
+Brożka;1
+Łagiewniki;1
+Łagiewniki Zus;2
+Łagiewniki Ska;2
+Sanktuarium Bożego Miłosierdzia;1
+Turowicza;2
+Kurdwanów P+R;1
+Witosa;3
+Nowosądecka;1
+Piaski Nowe;1
+Dauna;2
+Bieżanowska;2
+Kabel;2
+Dworzec Płaszów Estakada;2
+Lipska;3
+Rzebika;1
+Mały Płaszów P+R;2
+
+# LINIA 13
+Nowy Bieżanów P+R;0
+Ćwiklińskiej;1
+Nowy Prokocim;1
+Teligi;1
+Prokocim Szpital;1
+Prokocim;2
+Wlotowa;1
+Bieżanowska;1
+Kabel;2
+Dworcowa;2
+Cmentarz Podgórski;2
+Podgórze Ska;2
+Limanowskiego;1
+Korona;2
+Plac Wolnica;2
+Stradom;2
+Wawel;2
+Św. Gertrudy;1
+Plac Wszystkich Świętych;1
+Filharmonia;2
+Teatr Bagatela;2
+Stefana Batorego;1
+Plac Inwalidów;2
+Urzędnicza;1
+Biprostal;1
+Uken;1
+Głowackiego;1
+Bronowice;2
+
+# LINIA 14
+Bronowice;0
+Głowackiego;1
+Uken;1
+Biprostal;1
+Urzędnicza;1
+Plac Inwalidów;2
+Stefana Batorego;1
+Teatr Bagatela;2
+Stary Kleparz;2
+Teatr Słowackiego;2
+Lubicz;2
+Rondo Mogilskie;2
+Rondo Grzegórzeckie;3
+Teatr Variete;1
+Nullo;1
+Fabryczna;1
+Ofiar Dąbia;1
+Dąbie;1
+Tauron Arena Kraków al. Pokoju;2
+Ogród Doświadczeń;1
+Rondo 308. Dywizjonu;2
+Gałczyńskiego;1
+Rondo Czyżyńskie;3
+Bieńczycka;1
+Rondo Kocmyrzowskie im. Ks. Gorzelanego;3
+Dh Wanda;1
+Rondo Hipokratesa;2
+Dunikowskiego;1
+Rondo Piastowskie;2
+Os. Złotego Wieku;1
+Miśnieńska;1
+Mistrzejowice;2
+
+# LINIA 16
+Bardosa;0
+Suche Stawy;1
+Klasztorna;1
+Os.Na Skarpie;1
+Plac Centralny im. R.Reagana;4
+Os.Zgody;1
+Rondo Kocmyrzowskie im. Ks. Gorzelanego;3
+Dh Wanda;1
+Rondo Hipokratesa;2
+Dunikowskiego;1
+Rondo Piastowskie;2
+Os. Złotego Wieku;1
+Miśnieńska;1
+Mistrzejowice;2
+
+# LINIA 17
+Czerwone Maki P+R;0
+Kampus Up Jp II;1
+Kampus UJ;1
+Ruczaj;1
+Norymberska;1
+Grota-Roweckiego;2
+Lipińskiego;2
+Borsucza;1
+Brożka;1
+Łagiewniki;1
+Rzemieślnicza;3
+Rondo Matecznego;1
+Smolki;1
+Korona;2
+Plac Bohaterów Getta;2
+Św. Wawrzyńca;3
+Miodowa;1
+Starowiślna;2
+Hala Targowa;1
+Rondo Grzegórzeckie;3
+Rondo Mogilskie;2
+Dworzec Główny Tunel;2
+Politechnika;1
+Dworzec Towarowy;3
+
+# LINIA 18
+Górka Narodowa P+R;0
+Papierni Prądnickich;1
+Kuźnicy Kołłątajowskiej;1
+Bociana;1
+Siewna Wiadukt;1
+Górnickiego;2
+Białoprądnicka;1
+Pachońskiego P+R;1
+Krowodrza Górka P+R;2
+Bratysławska;1
+Szpital Narutowicza;1
+Dworzec Towarowy;3
+Nowy Kleparz;1
+Pędzichów;2
+Stary Kleparz;2
+Teatr Bagatela;2
+Filharmonia;2
+Plac Wszystkich Świętych;1
+Św. Gertrudy;2
+Wawel;1
+Stradom;2
+Orzeszkowej;1
+Rondo Grunwaldzkie;3
+Szwedzka;1
+Kapelanka;2
+Słomiana;1
+Kobierzyńska;2
+Lipińskiego;2
+Grota-Roweckiego;1
+Norymberska;1
+Ruczaj;2
+Kampus UJ;1
+Kampus Up Jp II;1
+Czerwone Maki P+R;2
+
+# LINIA 20
+Salwator;0
+Komorowskiego;2
+Jubilat;1
+Filharmonia;3
+Teatr Bagatela;2
+Stary Kleparz;2
+Teatr Słowackiego;2
+Lubicz;2
+Rondo Mogilskie;2
+Rondo Grzegórzeckie;3
+Zabłocie;1
+Klimeckiego;1
+Kuklińskiego;2
+Gromadzka;1
+Lipska;2
+Rzebika;1
+Mały Płaszów P+R;2
+
+# LINIA 21
+Pleszów;0
+Koksochemia;1
+Meksyk;1
+Brama Nr 5;1
+Giedroycia;1
+Brama Nr 4;1
+Fort Mogiła;1
+Kopiec Wandy;2
+Kombinat;2
+Zalew Nowohucki;2
+Struga;1
+Plac Centralny im. R.Reagana;2
+Os.Zgody;1
+Rondo Kocmyrzowskie im. Ks. Gorzelanego;3
+Dh Wanda;1
+Rondo Hipokratesa;2
+Dunikowskiego;1
+Kleeberga;2
+Piasta Kołodzieja;1
+Os.Piastów;2
+
+# LINIA 22
+Kopiec Wandy;0
+Kombinat;2
+Zalew Nowohucki;2
+Struga;1
+Plac Centralny im. R.Reagana;3
+Os.Kolorowe;1
+Rondo Czyżyńskie;3
+Gałczyńskiego;1
+Rondo 308. Dywizjonu;1
+Ogród Doświadczeń;2
+Tauron Arena Kraków al. Pokoju;1
+Dąbie;2
+Ofiar Dąbia;1
+Fabryczna;1
+Nullo;1
+Teatr Variete;1
+Rondo Grzegórzeckie;3
+Hala Targowa;2
+Starowiślna;1
+Stradom;2
+Orzeszkowej;1
+Rondo Grunwaldzkie;3
+Szwedzka;1
+Kapelanka;2
+Słomiana;1
+Kobierzyńska;2
+Borsucza;2
+Brożka;1
+Łagiewniki;1
+Łagiewniki Zus;2
+Łagiewniki Ska;1
+Kościuszkowców;2
+Solvay;1
+Borek Fałęcki;2
+
+# LINIA 24
+Kurdwanów P+R;0
+Witosa;1
+Nowosądecka;1
+Piaski Nowe;1
+Dauna;2
+Bieżanowska;2
+Kabel;1
+Dworcowa;2
+Cmentarz Podgórski;2
+Podgórze Ska;2
+Plac Bohaterów Getta;2
+Św. Wawrzyńca;3
+Miodowa;1
+Starowiślna;3
+Poczta Główna;1
+Teatr Słowackiego;2
+Stary Kleparz;2
+Teatr Bagatela;2
+Stefana Batorego;3
+Plac Inwalidów;2
+Urzędnicza;1
+Biprostal;1
+Uken;1
+Głowackiego;1
+Bronowice;2
+Wesele;1
+Bronowice Ska;2
+Bronowice Małe;2
+
+# LINIA 49
+Nowy Bieżanów P+R;0
+Ćwiklińskiej;1
+Nowy Prokocim;1
+Teligi;1
+Prokocim Szpital;1
+Prokocim;2
+Wlotowa;1
+Bieżanowska;1
+Kabel;2
+Dworzec Płaszów Estakada;2
+Lipska;2
+Gromadzka;1
+Kuklińskiego;1
+Klimeckiego;2
+Zabłocie;1
+Rondo Grzegórzeckie;4
+Rondo Mogilskie;2
+Cystersów;1
+Białucha;2
+Tauron Arena Kraków Wieczysta;2
+
+# LINIA 50
+Górka NArodowa P+R;0
+Papierni Prądnickich;1
+Kuźnicy Kołłątajowskiej;1
+Biciana;1
+Siewna Wiadukt;1
+Górnickiego;2
+Białoprądnicka;1
+Pachońskiego P+R;1
+Krowodrza Górka P+R;2
+Bratysławska;1
+Szpital Narutowicza;1
+Dworzec Towarowy;3
+Politechnika;2
+Dworzec Główny Tunel;1
+Rondo Mogilskie;2
+Rondo Grzegórzeckie;3
+Zabłocie;1
+Klimeckiego;1
+Kulkińskiego;2
+Gromadzka;1
+Lipska;2
+Dworzec Płaszów Estakada;2
+Kabel;2
+Bieżanowska;2
+Dauna;2
+Piaski Nowe;2
+Nowosądecka;1
+Witosa;2
+Kurdwanów P+R;1
+
+# LINIA 52
+Os.Piastów;0
+Piasta Kołodzieja;1
+Kleeberga;1
+Dunikowskiego;2
+Rondo Hipokratesa;2
+Dh Wanda;1
+Rondo Kocmyrzowskie im. Ks. Gorzelanego;3
+Bieńczycka;1
+Rondo Czyżyńskie;3
+Czyżyny;1
+Stella-Sawickiego;1
+Akf / Pk;1
+Muzeum Lotnictwa Polskiego;1
+Tauron Arena Kraków Wieczysta;2
+Białucha;1
+Cystersów;2
+Rodno Mogilskie;2
+Lubicz;2
+Teatr Słowackiego;2
+Poczta Główna;2
+Starowiślna;2
+Stradom;2
+Orzeszkowej;1
+Rondo Grunwaldzkie;3
+Szwedzka;1
+Kapelanka;2
+Słomiana;1
+Kobierzyńska;2
+Lipińskiego;2
+Grota-Roweckiego;1
+Norymberska;1
+Ruczaj;2
+Kampus UJ;1
+Kampus Up Jp II;1
+Czerwone Maki P+R;2
+
+# LINIA 75 (zastępcza)
+Górka Narodowa P+R;0
+Papierni Prądnickich;1
+Kuźnicy Kołłątajowskiej;1
+Bociana;1
+Siewna Wiadukt;1
+Górnickiego;2
+Białoprądnicka;1
+Pachońskiego P+R;1
+Krowodrza Górka P+R;2
+Bratysławska;1
+Szpital Narutowicza;1
+Dworzec Towarowy;3
+Nowy Kleparz;1
+Pędzichów;2
+Stary Kleparz;2
+Teatr Słowackiego;2
+Lubicz;2
+Rondo Mogilskie;2
+Cystersów;1
+Białucha;2
+Tauron Arena Kraków Wieczysta;2
+Muzeum Lotnictwa Polskiego;1
+Akf / Pk;1
+Stella-Sawickiego;2
+Czyżyny;1
+Rondo Czyżyńskie;3
+Os.Kolorowe;1
+Plac Centralny im. R.Reagana;3
+Struga;1
+Zalew Nowohucki;1
+Kombinat;2
+
+# LINIA 76 (zastępcza)
+Cmentarz Rakowicki;0
+Muzeum Fotografii;2
+Uniwersytet Ekonomiczny;1
+Lubicz;2
+Teatr Słowackiego;2
+Poczta Główna;2
+Św. Gertrudy;1
+Wawel;1
+Stradom;2
+Plac Wolnica;2
+Korona;2
+Limanowskiego;2
+Podgórze Ska;2
+Cmentarz Podgórski;1
+Dworcowa;2
+Dworzec Płaszów Estakada;2
+Lipska;2
+Rzebika;1
+Mały Płaszów P+R;2

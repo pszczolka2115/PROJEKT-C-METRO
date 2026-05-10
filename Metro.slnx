@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Metro/Metro.vcxproj" Id="5923c577-2607-4d28-a049-787a18f3042e" />
+</Solution>
