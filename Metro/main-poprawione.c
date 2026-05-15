@@ -1,3 +1,5 @@
+#pragma comment(linker, "/SUBSYSTEM:WINDOWS")
+
 #define _CRT_SECURE_NO_WARNINGS
 #define UNICODE
 #define _UNICODE
@@ -190,12 +192,12 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
     WNDCLASSW wc = { 0 };
     wc.lpfnWndProc = WindowProc;
     wc.hInstance = hInstance;
-    wc.lpszClassName = L"MetroKrakowGUI";
+    wc.lpszClassName = L"MPKKrakowGUI";
     wc.hbrBackground = (HBRUSH)(COLOR_BTNFACE + 1);
     wc.hCursor = LoadCursor(NULL, IDC_ARROW);
     RegisterClassW(&wc);
 
-    CreateWindowW(L"MetroKrakowGUI", L"MPK Krakow - Planer Podrozy", WS_OVERLAPPED | WS_CAPTION | WS_SYSMENU | WS_VISIBLE, CW_USEDEFAULT, CW_USEDEFAULT, 395, 400, NULL, NULL, hInstance, NULL);
+    CreateWindowW(L"MPKKrakowGUI", L"MPK Krakow - Planer Podrozy", WS_OVERLAPPED | WS_CAPTION | WS_SYSMENU | WS_VISIBLE, CW_USEDEFAULT, CW_USEDEFAULT, 395, 400, NULL, NULL, hInstance, NULL);
 
     MSG msg = { 0 };
     while (GetMessageW(&msg, NULL, 0, 0)) {

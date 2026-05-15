@@ -520,7 +520,7 @@ Tauron Arena Kraków Wieczysta;2
 Górka NArodowa P+R;0
 Papierni Prądnickich;1
 Kuźnicy Kołłątajowskiej;1
-Biciana;1
+Bociana;1
 Siewna Wiadukt;1
 Górnickiego;2
 Białoprądnicka;1
