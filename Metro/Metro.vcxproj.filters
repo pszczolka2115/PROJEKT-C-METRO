@@ -19,7 +19,7 @@
     <Text Include="przystanki.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main-poprawione.c">
+    <ClCompile Include="main.c">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
   </ItemGroup>
